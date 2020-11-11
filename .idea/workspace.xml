@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d5ba0e0-1d4a-4717-b436-eaba2ec021c9" name="Default Changelist" comment="" />
+    <list default="true" id="9d5ba0e0-1d4a-4717-b436-eaba2ec021c9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,23 +45,21 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="go build github.com/e421083458/gin_scaffold" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build gin_scaffold" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="gin_scaffold" />
       <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
+      <kind value="DIRECTORY" />
       <filePath value="$PROJECT_DIR$/main.go" />
       <package value="github.com/e421083458/gin_scaffold" />
       <directory value="$PROJECT_DIR$" />
@@ -67,7 +67,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build github.com/e421083458/gin_scaffold" />
+        <item itemvalue="Go Build.go build gin_scaffold" />
       </list>
     </recent_temporary>
   </component>
@@ -83,6 +83,7 @@
       <workItem from="1604975158910" duration="3227000" />
       <workItem from="1604991673719" duration="8430000" />
       <workItem from="1605059390219" duration="2469000" />
+      <workItem from="1605062493458" duration="178000" />
     </task>
     <task id="LOCAL-00001" summary="login">
       <created>1605060794872</created>
@@ -105,6 +106,10 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605062674353">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605062674353" />
     <state x="537" y="87" key="CommitChangelistDialog2" timestamp="1605060791917">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -113,22 +118,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604994473683" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1605061879505">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1605062624208">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605061879505" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1605061879505">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605062624208" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1605062624208">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605061879505" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1605061879505">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605062624208" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1605062624208">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605061879505" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1605061879505">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605062624208" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1605062624208">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605061879505" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605062624208" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1605061879506">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
